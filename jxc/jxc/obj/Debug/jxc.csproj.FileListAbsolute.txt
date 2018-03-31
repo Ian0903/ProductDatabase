@@ -1,0 +1,67 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\bin\Debug\jxc.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\bin\Debug\jxc.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\obj\Debug\jxc.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\obj\Debug\jxc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\obj\Debug\jxc.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\obj\Debug\jxc.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\obj\Debug\jxc.FrmLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\jxc\jxc\obj\Debug\jxc.Frm_Main.resources
+E:\数据库\jxc\jxc\obj\Debug\jxc.exe
+E:\数据库\jxc\jxc\obj\Debug\jxc.pdb
+E:\数据库\jxc\jxc\bin\Debug\jxc.exe
+E:\数据库\jxc\jxc\bin\Debug\jxc.pdb
+E:\数据库\jxc\jxc\obj\Debug\jxc.FrmLogin.resources
+E:\数据库\jxc\jxc\obj\Debug\jxc.Frm_Main.resources
+E:\数据库\jxc\jxc\obj\Debug\jxc.Properties.Resources.resources
+E:\数据库\jxc\jxc\obj\Debug\jxc.csproj.GenerateResource.Cache
+E:\数据库\jxc\jxc\bin\Debug\jxc.exe.config
+E:\数据库\jxc\jxc\obj\Debug\jxc.frm_zgInfo.resources
+E:\数据库\jxc\jxc\obj\Debug\jxc.FrmBM.resources
+E:\数据库\jxc\jxc\obj\Debug\jxc.csprojResolveAssemblyReference.cache
+E:\Jxc\ch15\jxc\jxc\bin\Debug\jxc.exe.config
+E:\Jxc\ch15\jxc\jxc\obj\Debug\jxc.exe
+E:\Jxc\ch15\jxc\jxc\obj\Debug\jxc.pdb
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\bin\Debug\jxc.exe.config
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\jxc.exe
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\jxc.pdb
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\bin\Debug\jxc.exe
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\bin\Debug\jxc.pdb
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\jxc.FrmBM.resources
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\jxc.FrmLogin.resources
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\jxc.Frm_Main.resources
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\jxc.frm_zgInfo.resources
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\jxc.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Jxc\ch15\jxc\jxc\obj\Debug\jxc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\bin\Debug\jxc.exe.config
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.exe
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.pdb
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\bin\Debug\jxc.exe
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\bin\Debug\jxc.pdb
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.FrmBM.resources
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.FrmLogin.resources
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.Frm_Main.resources
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.frm_zgInfo.resources
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.FrmCX.resources
+C:\Users\Administrator\Desktop\Jxc12.12\jxc\jxc\obj\Debug\jxc.FrmJH.resources
+C:\Users\Administrator\Desktop\Jxc12.19\jxc\jxc\bin\Debug\jxc.exe.config
+C:\Users\Administrator\Desktop\Jxc12.19\jxc\jxc\obj\Debug\jxc.exe
+C:\Users\Administrator\Desktop\Jxc12.19\jxc\jxc\obj\Debug\jxc.pdb
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\bin\Debug\jxc.exe.config
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.exe
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.pdb
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.csprojResolveAssemblyReference.cache
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.FrmBM.resources
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.FrmCX.resources
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.FrmJH.resources
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.FrmLogin.resources
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.Frm_Main.resources
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.frm_zgInfo.resources
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.Properties.Resources.resources
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\obj\Debug\jxc.csproj.GenerateResource.Cache
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\bin\Debug\jxc.exe
+F:\study\期末考试及课程设计\数据库期末课程设计\15551103025-杨宇俊\jxc\jxc\bin\Debug\jxc.pdb
